@@ -1,6 +1,6 @@
 <?php
 
-namespace Verify;
+namespace verify;
 
 use Exception;
 
